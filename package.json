@@ -1,0 +1,19 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Rogue twitter bot.",
+  "main": "bot-app.js",
+  "dependencies": {
+    "delay": "^2.0.0",
+    "node-schedule": "^1.3.0",
+    "random-item": "^1.0.0",
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "go": "node bot-app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
